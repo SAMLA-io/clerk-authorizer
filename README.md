@@ -34,3 +34,7 @@ zip -r function.zip . -x .gitignore .env test.js
 6. Create a new API Gateway and add a new authorizer method, select the Lambda function you just created.
 
 7. Add the Authorizer Source to your API Gateway method.
+
+## Contributors
+
+- [@jpgtzg](https://github.com/jpgtzg)
